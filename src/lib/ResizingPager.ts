@@ -96,7 +96,6 @@ export default defineComponent({
           style: {
             position: "relative",
             overflow: "hidden",
-            backgroundColor: "green",
             ...(animationState.value === "init"
               ? undefined
               : {
