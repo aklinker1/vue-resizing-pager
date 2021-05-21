@@ -1,8 +1,14 @@
 {
   "name": "vue-resizing-pager",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Vue 3 component for animating tiered popups",
-  "keywords": ["vue", "animation", "component", "popup", "resize"],
+  "keywords": [
+    "vue",
+    "animation",
+    "component",
+    "popup",
+    "resize"
+  ],
   "author": {
     "email": "aaronklinker1@gmail.com",
     "name": "Aaron Klinker"
